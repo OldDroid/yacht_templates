@@ -4,7 +4,7 @@
       "title": "Pi-Hole",
       "name": "pihole",
       "description": "A Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole.",
-      "logo": "https://raw.githubusercontent.com/OldDroid/yacht_templates/main/Images/pihole.png",
+      "logo": "https://raw.githubusercontent.com/OldDroid/yacht_templates/main/pihole.png",
       "image": "pihole/pihole:latest",
       "categories": [
         "Other",
